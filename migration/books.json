@@ -1,0 +1,240 @@
+[
+  {
+    "book_id": 1,
+    "book_name": "yehoshua",
+    "numchapters": 24,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 2,
+    "book_name": "shofetim",
+    "numchapters": 21,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 3,
+    "book_name": "shemuel1",
+    "numchapters": 31,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 4,
+    "book_name": "shemuel2",
+    "numchapters": 24,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 5,
+    "book_name": "melachim1",
+    "numchapters": 22,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 6,
+    "book_name": "melachim2",
+    "numchapters": 25,
+    "part_id": 1,
+    "part_name": "neviim rishonim"
+  },
+  {
+    "book_id": 7,
+    "book_name": "yeshayahu",
+    "numchapters": 66,
+    "part_id": 2,
+    "part_name": "neviim aharonim"
+  },
+  {
+    "book_id": 8,
+    "book_name": "yirmiyahu",
+    "numchapters": 52,
+    "part_id": 2,
+    "part_name": "neviim aharonim"
+  },
+  {
+    "book_id": 9,
+    "book_name": "yehezkel",
+    "numchapters": 48,
+    "part_id": 2,
+    "part_name": "neviim aharonim"
+  },
+  {
+    "book_id": 10,
+    "book_name": "hoshea",
+    "numchapters": 14,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 11,
+    "book_name": "yoel",
+    "numchapters": 4,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 12,
+    "book_name": "amos",
+    "numchapters": 9,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 13,
+    "book_name": "ovadia",
+    "numchapters": 1,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 14,
+    "book_name": "yonah",
+    "numchapters": 4,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 15,
+    "book_name": "michah",
+    "numchapters": 7,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 16,
+    "book_name": "nahum",
+    "numchapters": 3,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 17,
+    "book_name": "habakuk",
+    "numchapters": 3,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 18,
+    "book_name": "sephania",
+    "numchapters": 3,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 19,
+    "book_name": "hagai",
+    "numchapters": 2,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 20,
+    "book_name": "zecharia",
+    "numchapters": 14,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 21,
+    "book_name": "malachi",
+    "numchapters": 14,
+    "part_id": 3,
+    "part_name": "tere assar"
+  },
+  {
+    "book_id": 22,
+    "book_name": "divre-hayamim-1",
+    "numchapters": 29,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 23,
+    "book_name": "divre-hayamim-2",
+    "numchapters": 36,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 24,
+    "book_name": "tehillim",
+    "numchapters": 150,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 25,
+    "book_name": "mishle",
+    "numchapters": 31,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 26,
+    "book_name": "iyov",
+    "numchapters": 42,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 27,
+    "book_name": "shir-hashirim",
+    "numchapters": 8,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 28,
+    "book_name": "ruth",
+    "numchapters": 4,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 29,
+    "book_name": "eichah",
+    "numchapters": 5,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 30,
+    "book_name": "kohelet",
+    "numchapters": 12,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 31,
+    "book_name": "esther",
+    "numchapters": 10,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 32,
+    "book_name": "daniel",
+    "numchapters": 12,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 33,
+    "book_name": "ezra",
+    "numchapters": 10,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  },
+  {
+    "book_id": 34,
+    "book_name": "nehemya",
+    "numchapters": 13,
+    "part_id": 4,
+    "part_name": "ketuvim"
+  }
+]
