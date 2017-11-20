@@ -15,36 +15,36 @@
   "parts_breakdown" : [
     {
       "number" : 1,
-      "title": "Yaakov and Esav (25:19-34)"
+      "title": "Jacob's Ladder (28:10 - 29:9)"
     },
     {
       "number" : 2,
-      "title": "Yitzhak in Gerrar (26:1-14)"
+      "title": "The Conjugal Switch (29:11-30)"
     },
     {
       "number" : 3,
-      "title": "Yitzhak's Wells (26:15-35)"
+      "title": "The Currency of Jealousy (29:30 - 30:23)"
     },
     {
       "number" : 4,
-      "title": "Masquerading as Esav (27:1-18)"
+      "title": ""
     },
     {
       "number" : 5,
-      "title": "Usurping the Blessings (27:19-40)"
+      "title": ""
     },
     {
       "number" : 6,
-      "title": "Separation of Powers (27:41 - 28:9)"
+      "title": ""
     }
   ],
-  "perek_id" : "toledot",
+  "perek_id" : "vayetze",
   "teacher_id" : 1004,
   "reader_id" : null,
   "book_id" : 35,
   "book_num_chapters" : 6,
   "book_name_pretty_eng" : "Bereshit",
-  "parasha_name_pretty_eng" : "Toledot",
+  "parasha_name_pretty_eng" : "Vayetze",
   "book_name" : "bereshit",
   "prev_book_id" : null,
   "prev_book_name" : null,
