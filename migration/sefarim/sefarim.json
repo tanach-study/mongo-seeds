@@ -8983,6 +8983,21 @@
         "image_url": "http://cdn.tanachstudy.com/assets/images/Rabbi_Ikey_Tawil.jpg"
     },
     {
+        "perek_id": 100,
+        "teacher_id": 1020,
+        "reader_id": null,
+        "is_many_parts": false,
+        "parts_breakdown": null,
+        "part_id": 4,
+        "title": "Rabbi",
+        "fname": "Ikey",
+        "mname": null,
+        "lname": "Tawil",
+        "short_bio": "Rabbi at Magen David Yeshiva",
+        "long_bio": "Rabbi Isaac Tawil, originally from Brooklyn, NY, is a graduate of Magen David Yeshiva High School, BMT in Israel, Yeshiva University Sy Syms school of Business and received Semicha from the Sephardic Rabbinical College. Rabbi Tawil is the head Rabbi at Kol Israel Congregation and the Dean of Student Life at Magen David Yeshiva High School, where he also runs special events and Hessed projects.",
+        "image_url": "http://cdn.tanachstudy.com/assets/images/Rabbi_Ikey_Tawil.jpg"
+    },
+    {
         "perek_id": 101,
         "teacher_id": 1020,
         "reader_id": null,
