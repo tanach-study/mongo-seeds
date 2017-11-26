@@ -135,6 +135,21 @@
       "short_bio" : "Teacher of Tanach in Israel, Author of \"Jacob's Family Dynamics\"",
       "long_bio" : "Rabbi Gad Dishi, Adv. Esq. is the author of Jacob’s Family Dynamics – Climbing the Rungs of the Ladder. He also holds an MA in Bible from Bar Ilan University after completing his thesis: Religious and National Identity as a Unifying Theme for the Narratives of Ahab (1 Kings 16:29-22:40). In his day-to-day, he works as a real estate attorney in Israel providing legal and investment services to the community for the past 20 years. Rav Dishi lives in Alon Shevut and can be frequently caught lecturing at the Hertzog College Ymei Iyun.",
       "image_url" : "http://cdn.tanachstudy.com/assets/images/Rabbi_Gad_Dishi.jpg"
+    },
+    {
+      "perek_id" : "vayishlah",
+      "teacher_id" : 1004,
+      "reader_id" : null,
+      "is_many_parts" : false,
+      "parts_breakdown" : null,
+      "part_id" : 5,
+      "title" : "Rabbi",
+      "fname" : "Alex",
+      "mname" : null,
+      "lname" : "Israel",
+      "short_bio" : "Teacher of Tanach in Israel, Author of \"Jacob's Family Dynamics\"",
+      "long_bio" : "Rabbi Gad Dishi, Adv. Esq. is the author of Jacob’s Family Dynamics – Climbing the Rungs of the Ladder. He also holds an MA in Bible from Bar Ilan University after completing his thesis: Religious and National Identity as a Unifying Theme for the Narratives of Ahab (1 Kings 16:29-22:40). In his day-to-day, he works as a real estate attorney in Israel providing legal and investment services to the community for the past 20 years. Rav Dishi lives in Alon Shevut and can be frequently caught lecturing at the Hertzog College Ymei Iyun.",
+      "image_url" : "http://cdn.tanachstudy.com/assets/images/Rabbi_Gad_Dishi.jpg"
     }
   ]
 }
