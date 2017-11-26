@@ -1,0 +1,18 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1034,
+    "title" : "Rabbi",
+    "fname" : "Jonathan",
+    "mname" : null,
+    "lname" : "Snowbell",
+    "short_bio" : "Rabbi at Himelfarb High School, Jerusalem",
+    "long_bio" : "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "bemidbar",
+      "pretty_eng" : "Bemidbar"
+    }
+  ]
+}

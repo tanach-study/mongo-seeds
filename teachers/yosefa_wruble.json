@@ -1,0 +1,18 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1035,
+    "title" : "Mrs.",
+    "fname" : "Yosefa",
+    "mname" : null,
+    "lname" : "Wruble",
+    "short_bio" : "Tanakh teacher at Matan",
+    "long_bio" : "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "bemidbar",
+      "pretty_eng" : "Bemidbar"
+    }
+  ]
+}

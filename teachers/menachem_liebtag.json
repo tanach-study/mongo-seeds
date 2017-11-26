@@ -1,0 +1,18 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1036,
+    "title" : "Rabbi",
+    "fname" : "Menachem",
+    "mname" : null,
+    "lname" : "Leibtag",
+    "short_bio" : "Rabbi at Yeshivat Har Etzion",
+    "long_bio" : "Rabbi Menachem Leibtag, founder of the Tanach Study Center www.tanach.org, is an internationally acclaimed bible scholar and pioneer of Jewish Education on the internet. His essays on Parshat ha’Shavua reflect his vibrant thematic-analytical approach, blending the methods of modern scholarship with traditional approaches. As a rebbe at Yeshivat Har Etzion, he is best known for his ability to teach students how to study Tanach. Rabbi Leibtag also teaches at Yeshivat Shaalavim, Midreshet Lindenbaum, & Matan; and routinely lectures around the globe, primarily as a Scholar in Residence in communities in North America.",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Rabbi_Menachem_Leibtag.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "devarim",
+      "pretty_eng" : "Devarim"
+    }
+  ]
+}

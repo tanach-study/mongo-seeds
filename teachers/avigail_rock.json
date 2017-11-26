@@ -1,0 +1,18 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1032,
+    "title" : "Dr.",
+    "fname" : "Avigail",
+    "mname" : null,
+    "lname" : "Rock",
+    "short_bio" : "Senior lecturer at Matan",
+    "long_bio" : "Dr. Avigail Poupko Rock holds a PhD in Tanach from Bar-Ilan University, has been teaching Tanach and Tora Shebeal Peh for over two decades in Israel and abroad. Dr. Rock is a senior lecturer at Matan, Her online classes appear through Yeshivat Har-Etzion's Virtual Bet Midrash. She is a certified Rabbinical Advocate, and lives in Bet Shemesh with her husband, Rabbi Yehuda Rock, and their five children.",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Dr_Avigail_Rock.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "bereshit",
+      "pretty_eng" : "Bereshit"
+    }
+  ]
+}

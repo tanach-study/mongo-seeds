@@ -1,0 +1,18 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1033,
+    "title" : "Dr.",
+    "fname" : "Yael",
+    "mname" : null,
+    "lname" : "Ziegler",
+    "short_bio" : "Senior lecturer in Tanakh at Herzog College and Matan",
+    "long_bio" : "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "shemot",
+      "pretty_eng" : "Shemot"
+    }
+  ]
+}
