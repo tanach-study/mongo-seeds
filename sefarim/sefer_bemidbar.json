@@ -1,0 +1,144 @@
+{
+  "seferMeta": {
+    "book_id": 38,
+    "book_name": "bemidbar",
+    "book_name_pretty": "Bemidbar",
+    "numchapters": 36,
+    "part_id": 5,
+    "part_name": "torah"
+  },
+  "seferTeachers": [
+    {
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    }
+  ],
+  "allPerakim": [
+    {
+      "perek_id": "bemidbar",
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "perek_id": "nasso",
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "perek_id": "behaalotecha",
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "perek_id": "shelah",
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "perek_id": "korah",
+      "teacher_id": 1034,
+      "title": "Rabbi",
+      "fname": "Jonathan",
+      "mname": null,
+      "lname": "Snowbell",
+      "short_bio": "Rabbi at Himelfarb High School, Jerusalem",
+      "long_bio": "Jonathan Snowbell studied in Yeshivat Or Etzion and Yeshiva University. From 1998 to 2005 he studied in Yeshivat Har Etzion, receiving his Rabbinical Ordination from the Chief Rabbinate. He has studied extensively with Rabbi Mordechai Sabato and continues to study with Rabbi Yaakov Medan. He has dedicated his educational career to teaching Talmud and Tanakh to young students in Himelfarb High School for Boys in Jerusalem. Jonathan lives in Alon Shvut with his wife Atara and their five children. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Jonathan_Snowbell.jpg"
+    },
+    {
+      "perek_id": "hukat",
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    },
+    {
+      "perek_id": "balak",
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    },
+    {
+      "perek_id": "pinehas",
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    },
+    {
+      "perek_id": "matot",
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    },
+    {
+      "perek_id": "masei",
+      "teacher_id": 1035,
+      "title": "Mrs.",
+      "fname": "Yosefa",
+      "mname": null,
+      "lname": "Wruble",
+      "short_bio": "Tanakh teacher at Matan",
+      "long_bio": "Yosefa Wruble teaches Tanakh at Matan's Bet Midrash in Jerusalem. She is a graduate of Matan's Advanced Tanakh Masters Program and is completing a doctorate in Tanakh at Bar-Ilan University. Yosefa lives with her husband and children in Jerusalem. ",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Yosefa_Wruble.jpg"
+    }
+  ]
+}

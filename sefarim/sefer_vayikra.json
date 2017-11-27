@@ -1,0 +1,134 @@
+{
+  "seferMeta": {
+    "book_id": 37,
+    "book_name": "vayikra",
+    "book_name_pretty": "Vayikra",
+    "numchapters": 27,
+    "part_id": 5,
+    "part_name": "torah"
+  },
+  "seferTeachers": [
+    {
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    }
+  ],
+  "allPerakim": [
+    {
+      "perek_id": "vayikra",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "tzav",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "shemini",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "tazria",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "metzora",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "aharei-mot",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "kedoshim",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "emor",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "behar",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    },
+    {
+      "perek_id": "behukotai",
+      "teacher_id": 1023,
+      "title": "Mrs.",
+      "fname": "Shani",
+      "mname": null,
+      "lname": "Taragin",
+      "short_bio": "Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan",
+      "long_bio": "Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg"
+    }
+  ]
+}

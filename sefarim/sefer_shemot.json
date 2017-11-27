@@ -1,0 +1,155 @@
+{
+  "seferMeta": {
+    "book_id": 36,
+    "book_name": "shemot",
+    "book_name_pretty": "Shemot",
+    "numchapters": 40,
+    "part_id": 5,
+    "part_name": "torah"
+  },
+  "seferTeachers": [
+    {
+      "teacher_id": 1033,
+      "title": "Dr.",
+      "fname": "Yael",
+      "mname": null,
+      "lname": "Ziegler",
+      "short_bio": "Senior lecturer in Tanakh at Herzog College and Matan",
+      "long_bio": "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+    },
+    {
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    }
+  ],
+  "allPerakim": [
+    {
+      "perek_id": "shemot",
+      "teacher_id": 1033,
+      "title": "Dr.",
+      "fname": "Yael",
+      "mname": null,
+      "lname": "Ziegler",
+      "short_bio": "Senior lecturer in Tanakh at Herzog College and Matan",
+      "long_bio": "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+    },
+    {
+      "perek_id": "vaera",
+      "teacher_id": 1033,
+      "title": "Dr.",
+      "fname": "Yael",
+      "mname": null,
+      "lname": "Ziegler",
+      "short_bio": "Senior lecturer in Tanakh at Herzog College and Matan",
+      "long_bio": "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+    },
+    {
+      "perek_id": "bo",
+      "teacher_id": 1033,
+      "title": "Dr.",
+      "fname": "Yael",
+      "mname": null,
+      "lname": "Ziegler",
+      "short_bio": "Senior lecturer in Tanakh at Herzog College and Matan",
+      "long_bio": "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+    },
+    {
+      "perek_id": "beshalah",
+      "teacher_id": 1033,
+      "title": "Dr.",
+      "fname": "Yael",
+      "mname": null,
+      "lname": "Ziegler",
+      "short_bio": "Senior lecturer in Tanakh at Herzog College and Matan",
+      "long_bio": "Dr. Yael Ziegler is a senior lecturer in Tanakh at Herzog College and Matan. She received her BA from Stern College and an MA and Ph.D. at Bar Ilan University. Dr. Ziegler has lectured widely on various Tanakh topics in Israel, the United States, South Africa, Australia, and Europe. Dr. Ziegler is the author of \"Promises to Keep: The Oath in Biblical Narrative\" and \"Ruth: From Alienation to Monarchy.\" Her forthcoming book on Megillat Eikhah is scheduled for publication in 2019. She lives in Alon Shvut, Israel, with her husband and their five children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Dr_Yael_Ziegler.jpg"
+    },
+    {
+      "perek_id": "yitro",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "mishpatim",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "teruma",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "tetzave",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "ki-tisa",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "vayakhel",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    },
+    {
+      "perek_id": "pekude",
+      "teacher_id": 1015,
+      "title": "Rabbi",
+      "fname": "Yitzchak",
+      "mname": null,
+      "lname": "Etshalom",
+      "short_bio": "Author of \"Between the Lines of the Bible – Genesis\"",
+      "long_bio": "Rav Yitzchak Etshalom was born and raised in Los Angeles, California. He attended Yeshivat Kerem B'Yavne, Rabbi Isaac Elhanan Theological Seminary and Yeshivat Har Etzion before receiving Semicha from the Chief Rabbi of Yerushalayim, Rabbi Itzhak Kolitz. Rav Etshalom has been a dynamic and exciting educator in the Los Angeles community since his return in 1985. His ability to reach out to today's youth and share with them his passion for Jewish learning and Jewish life has enriched many young lives. His critically acclaimed series \"Between the Lines of the Bible\" is a methodological guide to the study of Tanakh. He has recently assumed the role of Rosh Beit Midrash at YULA Girls’ High School and leads this groundbreaking Limudei Kodesh program for young women. Rav Etshalom continues to direct the Tanach Masters Program at YULA Boys’ High School as well as serving as a widely sought-after Scholar in Residence throughout the country. Rav Etshalom lectures annually at the prestigious \"Ymei Iyyun\" Tanakh Seminar at Herzog College. In addition, he teaches Daf Yomi and a popular Navi series at the Young Israel of Century City and his podcasts on Daf Yomi (www.dafyomiyicc.org) have attracted an international following, as have his T’nakh podcasts (www.etshalom.com/podcast) which are also available at www.yutorah.org and at www.ou.org. Rabbi Etshalom lives in Los Angeles with his wife Stefanie and their 5 children.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Yitzchak_Etshalom.jpg"
+    }
+  ]
+}
