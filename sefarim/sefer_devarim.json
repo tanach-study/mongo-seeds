@@ -22,6 +22,7 @@
   "allPerakim": [
     {
       "perek_id": "devarim",
+      "pretty_name": "Devarim",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -33,6 +34,7 @@
     },
     {
       "perek_id": "vaethanan",
+      "pretty_name": "Vaethanan",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -44,6 +46,7 @@
     },
     {
       "perek_id": "ekev",
+      "pretty_name": "Ekev",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -55,6 +58,7 @@
     },
     {
       "perek_id": "re'e",
+      "pretty_name": "Re'e",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -66,6 +70,7 @@
     },
     {
       "perek_id": "shofetim",
+      "pretty_name": "Shofetim",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -77,6 +82,7 @@
     },
     {
       "perek_id": "ki-tetze",
+      "pretty_name": "Ki Tetze",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -88,6 +94,7 @@
     },
     {
       "perek_id": "ki-tavo",
+      "pretty_name": "Ki Tavo",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -99,6 +106,7 @@
     },
     {
       "perek_id": "nitzavim",
+      "pretty_name": "Nitzavim",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -110,6 +118,7 @@
     },
     {
       "perek_id": "vayelech",
+      "pretty_name": "Vayelech",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -121,6 +130,7 @@
     },
     {
       "perek_id": "haazinu",
+      "pretty_name": "Haazinu",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",
@@ -132,6 +142,7 @@
     },
     {
       "perek_id": "vezot-haberacha",
+      "pretty_name": "Vezot Haberacha",
       "teacher_id": 1036,
       "title": "Rabbi",
       "fname": "Menachem",

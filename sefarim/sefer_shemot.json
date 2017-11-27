@@ -32,6 +32,7 @@
   "allPerakim": [
     {
       "perek_id": "shemot",
+      "pretty_name": "Shemot",
       "teacher_id": 1033,
       "title": "Dr.",
       "fname": "Yael",
@@ -43,6 +44,7 @@
     },
     {
       "perek_id": "vaera",
+      "pretty_name": "Vaera",
       "teacher_id": 1033,
       "title": "Dr.",
       "fname": "Yael",
@@ -54,6 +56,7 @@
     },
     {
       "perek_id": "bo",
+      "pretty_name": "Bo",
       "teacher_id": 1033,
       "title": "Dr.",
       "fname": "Yael",
@@ -65,6 +68,7 @@
     },
     {
       "perek_id": "beshalah",
+      "pretty_name": "Beshalah",
       "teacher_id": 1033,
       "title": "Dr.",
       "fname": "Yael",
@@ -76,6 +80,7 @@
     },
     {
       "perek_id": "yitro",
+      "pretty_name": "Yitro",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -87,6 +92,7 @@
     },
     {
       "perek_id": "mishpatim",
+      "pretty_name": "Mishpatim",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -98,6 +104,7 @@
     },
     {
       "perek_id": "teruma",
+      "pretty_name": "Teruma",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -109,6 +116,7 @@
     },
     {
       "perek_id": "tetzave",
+      "pretty_name": "Tetzave",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -120,6 +128,7 @@
     },
     {
       "perek_id": "ki-tisa",
+      "pretty_name": "Ki Tisa",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -131,6 +140,7 @@
     },
     {
       "perek_id": "vayakhel",
+      "pretty_name": "Vayakhel",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",
@@ -142,6 +152,7 @@
     },
     {
       "perek_id": "pekude",
+      "pretty_name": "Pekude",
       "teacher_id": 1015,
       "title": "Rabbi",
       "fname": "Yitzchak",

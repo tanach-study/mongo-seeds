@@ -29,6 +29,16 @@
       "image_url": "https://cdn.tanachstudy.com/assets/images/Rabbi_Gad_Dishi.jpg"
     },
     {
+      "teacher_id": 1031,
+      "title": "Mrs.",
+      "fname": "Deborah",
+      "mname": null,
+      "lname": "Geller",
+      "short_bio": "Tanach doctoral student at Bar-Ilan",
+      "long_bio": "Deborah is currently a doctoral student in the Bible department at Bar-Ilan University and a recipient of the Presidential Scholarship for doctoral studies. Her research entails an examination of revenge narratives in Tanach. She has taught Tanach in various community institutions since her Aliya in 2007, before which she taught Tanach, Halacha and Physics at the Samuel H. Wang Yeshiva University High School for Girls. Deborah holds Master’s degrees in Bible from Bar-Ilan and from the Bernard Revel Graduate School of Yeshiva University, as well as a Bachelor’s degree in Mathematics from Barnard College.",
+      "image_url": "https://cdn.tanachstudy.com/assets/images/Mrs_Deborah_Geller.jpg"
+      },
+    {
       "teacher_id": 1032,
       "title": "Dr.",
       "fname": "Avigail",
@@ -42,6 +52,7 @@
   "allPerakim": [
     {
       "perek_id": "bereshit",
+      "pretty_name": "Bereshit",
       "teacher_id": 1030,
       "title": "Rabbi",
       "fname": "Alex",
@@ -53,6 +64,7 @@
     },
     {
       "perek_id": "noah",
+      "pretty_name": "Noah",
       "teacher_id": 1030,
       "title": "Rabbi",
       "fname": "Alex",
@@ -64,6 +76,7 @@
     },
     {
       "perek_id": "lech-lecha",
+      "pretty_name": "Lech Lecha",
       "teacher_id": 1030,
       "title": "Rabbi",
       "fname": "Alex",
@@ -75,6 +88,7 @@
     },
     {
       "perek_id": "vayera",
+      "pretty_name": "Vayera",
       "teacher_id": 1030,
       "title": "Rabbi",
       "fname": "Alex",
@@ -86,6 +100,7 @@
     },
     {
       "perek_id": "haye-sarah",
+      "pretty_name": "Haye Sarah",
       "teacher_id": 1030,
       "title": "Rabbi",
       "fname": "Alex",
@@ -97,6 +112,7 @@
     },
     {
       "perek_id": "toledot",
+      "pretty_name": "Toledot",
       "teacher_id": 1004,
       "title": "Rabbi",
       "fname": "Gad",
@@ -108,6 +124,7 @@
     },
     {
       "perek_id": "vayetze",
+      "pretty_name": "Vayetze",
       "teacher_id": 1004,
       "title": "Rabbi",
       "fname": "Gad",
@@ -119,6 +136,7 @@
     },
     {
       "perek_id": "vayishlah",
+      "pretty_name": "Vayishlah",
       "teacher_id": 1004,
       "title": "Rabbi",
       "fname": "Gad",
@@ -130,6 +148,7 @@
     },
     {
       "perek_id": "vayeshev",
+      "pretty_name": "Vayeshev",
       "teacher_id": 1032,
       "title": "Dr.",
       "fname": "Avigail",
@@ -141,6 +160,7 @@
     },
     {
       "perek_id": "miketz",
+      "pretty_name": "Miketz",
       "teacher_id": 1032,
       "title": "Dr.",
       "fname": "Avigail",
@@ -152,6 +172,7 @@
     },
     {
       "perek_id": "vayigash",
+      "pretty_name": "Vayigash",
       "teacher_id": 1032,
       "title": "Dr.",
       "fname": "Avigail",
@@ -163,6 +184,7 @@
     },
     {
       "perek_id": "vayhi",
+      "pretty_name": "Vayhi",
       "teacher_id": 1032,
       "title": "Dr.",
       "fname": "Avigail",

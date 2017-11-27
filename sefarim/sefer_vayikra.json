@@ -22,6 +22,7 @@
   "allPerakim": [
     {
       "perek_id": "vayikra",
+      "pretty_name": "Vayikra",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -33,6 +34,7 @@
     },
     {
       "perek_id": "tzav",
+      "pretty_name": "Tzav",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -44,6 +46,7 @@
     },
     {
       "perek_id": "shemini",
+      "pretty_name": "Shemini",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -55,6 +58,7 @@
     },
     {
       "perek_id": "tazria",
+      "pretty_name": "Tazria",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -66,6 +70,7 @@
     },
     {
       "perek_id": "metzora",
+      "pretty_name": "Metzora",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -77,6 +82,7 @@
     },
     {
       "perek_id": "aharei-mot",
+      "pretty_name": "Aharei Mot",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -88,6 +94,7 @@
     },
     {
       "perek_id": "kedoshim",
+      "pretty_name": "Kedoshim",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -99,6 +106,7 @@
     },
     {
       "perek_id": "emor",
+      "pretty_name": "Emor",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -110,6 +118,7 @@
     },
     {
       "perek_id": "behar",
+      "pretty_name": "Behar",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
@@ -121,6 +130,7 @@
     },
     {
       "perek_id": "behukotai",
+      "pretty_name": "Behukotai",
       "teacher_id": 1023,
       "title": "Mrs.",
       "fname": "Shani",
