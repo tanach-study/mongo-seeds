@@ -5,7 +5,8 @@
     "book_name_pretty": "Devarim",
     "numchapters": 34,
     "part_id": 5,
-    "part_name": "torah"
+    "part_name": "torah",
+    "book_sponsor": ""
   },
   "seferTeachers": [
     {
