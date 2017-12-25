@@ -26,35 +26,35 @@
     },
     {
       "number": 3,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Rape of Dinah (33:18 - 34:12)",
+      "start_chapter": 33,
+      "start_verse": 18,
+      "end_chapter": 34,
+      "end_verse": 12
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Massacre of Shekhem (34:13 - 34:31)",
+      "start_chapter": 34,
+      "start_verse": 13,
+      "end_chapter": 34,
+      "end_verse": 31
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Yaakov's Return to Beit El (35:1-15)",
+      "start_chapter": 35,
+      "start_verse": 1,
+      "end_chapter": 35,
+      "end_verse": 15
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Rachel's Death and Esav's Genealogies (35:16 - 36:43)",
+      "start_chapter": 35,
+      "start_verse": 16,
+      "end_chapter": 36,
+      "end_verse": 43
     }
   ],
   "perek_id": "vayishlah",
