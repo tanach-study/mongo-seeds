@@ -26,35 +26,35 @@
     },
     {
       "number": 3,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Ephraim and Menashe Part B (48:15-22)",
+      "start_chapter": 48,
+      "start_verse": 15,
+      "end_chapter": 48,
+      "end_verse": 22
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Blessings of the Sons of Yaakov (49:1-19)",
+      "start_chapter": 49,
+      "start_verse": 1,
+      "end_chapter": 49,
+      "end_verse": 19
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Yaakov's Death and Burial (49:20 - 50:13)",
+      "start_chapter": 49,
+      "start_verse": 20,
+      "end_chapter": 50,
+      "end_verse": 13
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Yosef Hatzadik (50:14-26)",
+      "start_chapter": 50,
+      "start_verse": 14,
+      "end_chapter": 50,
+      "end_verse": 26
     }
   ],
   "perek_id": "vayhi",
