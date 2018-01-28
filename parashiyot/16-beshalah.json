@@ -34,27 +34,27 @@
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Song of the Sea",
+      "start_chapter": 15,
+      "start_verse": 1,
+      "end_chapter": 15,
+      "end_verse": 19
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The 'Manna': A Training Experience, Forever",
+      "start_chapter": 15,
+      "start_verse": 20,
+      "end_chapter": 16,
+      "end_verse": 36
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "What's So Evil About Amalek?",
+      "start_chapter": 17,
+      "start_verse": 1,
+      "end_chapter": 17,
+      "end_verse": 16
     }
   ],
   "perek_id": "beshalah",
