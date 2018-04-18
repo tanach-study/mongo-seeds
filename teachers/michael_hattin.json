@@ -1,0 +1,19 @@
+{
+  "teacher_info" : {
+    "teacher_id" : 1035,
+    "title" : "Rabbi",
+    "fname" : "Michael",
+    "mname" : null,
+    "lname" : "Hattin",
+    "short_bio" : "Master Teacher at Pardes Institute",
+    "long_bio" : "Michael Hattin is a master teacher of Tanakh and Halakha at the Pardes Institute of Jewish Studies in Jerusalem and serves as the Director of the Beit Midrash for the Pardes Center for Jewish Educators. He studied for semicha at Yeshivat Har Etzion and holds a professional degree in architecture from the University of Toronto. Michael is the author of Passages: Text and Transformation in the Parasha, published by Urim Publications in 2012 as well as Joshua: The Challenge of the Promised Land, published by Koren Publishers in March 2015. He has served as scholar-in-residence in many communities in North America and Europe and lives in Alon Shevut with his Rivka and their five children.",
+    "image_url" : "http://cdn.tanachstudy.com/assets/images/Rabbi_Michael_Hattin.jpg"
+  },
+  "teacher_books" : [
+    {
+      "book_name" : "bemidbar",
+      "pretty_eng" : "Bemidbar"
+    }
+  ]
+
+}
