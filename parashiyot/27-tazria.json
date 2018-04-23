@@ -18,14 +18,22 @@
     },
     {
       "number": 2,
-      "title": "Different Forms Of Tzara'at",
+      "title": "Different Forms Of Tzara'at Part 1",
+      "start_chapter": 13,
+      "start_verse": 1,
+      "end_chapter": 13,
+      "end_verse": 8
+    },
+    {
+      "number": 3,
+      "title": "Different Forms Of Tzara'at Part 1",
       "start_chapter": 13,
       "start_verse": 1,
       "end_chapter": 13,
       "end_verse": 46
     },
     {
-      "number": 3,
+      "number": 4,
       "title": "Isolation and Insight",
       "start_chapter": 13,
       "start_verse": 45,
@@ -33,24 +41,16 @@
       "end_verse": 46
     },
     {
-      "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
-    },
-    {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Leprosy on Clothing: The Clothing Makes the Man or The Man Makes the Clothing? (13:47-59)",
+      "start_chapter": 13,
+      "start_verse": 47,
+      "end_chapter": 13,
+      "end_verse": 59
     },
     {
       "number": 6,
-      "title": "",
+      "title": "Summary: Feeling the Distance",
       "start_chapter": null,
       "start_verse": null,
       "end_chapter": null,
