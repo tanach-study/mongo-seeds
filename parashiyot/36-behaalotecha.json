@@ -26,35 +26,35 @@
     },
     {
       "number": 3,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Cloud and the Trumpets",
+      "start_chapter": 9,
+      "start_verse": 15,
+      "end_chapter": 10,
+      "end_verse": 10
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Travelling and the Beginning of Failure",
+      "start_chapter": 10,
+      "start_verse": 11,
+      "end_chapter": 11,
+      "end_verse": 3
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Desire for Meat and Moshe's Leadership Challenge",
+      "start_chapter": 11,
+      "start_verse": 4,
+      "end_chapter": 11,
+      "end_verse": 23
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Prophecy for All and Miriam & Aharon's Challenge of Moshe",
+      "start_chapter": 11,
+      "start_verse": 24,
+      "end_chapter": 12,
+      "end_verse": 16
     }
   ],
   "perek_id": "behaalotecha",
