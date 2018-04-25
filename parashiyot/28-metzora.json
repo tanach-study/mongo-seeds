@@ -50,11 +50,11 @@
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Chiastic Conclusion",
+      "start_chapter": 15,
+      "start_verse": 31,
+      "end_chapter": 15,
+      "end_verse": 33
     }
   ],
   "perek_id": "metzora",
