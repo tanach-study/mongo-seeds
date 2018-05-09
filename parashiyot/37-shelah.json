@@ -50,11 +50,11 @@
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Mekoshesh and Tzizit",
+      "start_chapter": 15,
+      "start_verse": 32,
+      "end_chapter": 15,
+      "end_verse": 41
     }
   ],
   "perek_id": "shelah",
