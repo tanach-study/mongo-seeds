@@ -34,27 +34,27 @@
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Aharon's Blossoming Rod and the Death of a Generation",
+      "start_chapter": 17,
+      "start_verse": 16,
+      "end_chapter": 17,
+      "end_verse": 28
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Obligation and Rights of the Kohanim",
+      "start_chapter": 18,
+      "start_verse": 1,
+      "end_chapter": 18,
+      "end_verse": 14
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The Obligation and Rights of the Leviim",
+      "start_chapter": 18,
+      "start_verse": 15,
+      "end_chapter": 18,
+      "end_verse": 32
     }
   ],
   "perek_id": "korah",
