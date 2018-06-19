@@ -18,43 +18,43 @@
     },
     {
       "number": 2,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Moshe Strikes the Rock",
+      "start_chapter": 20,
+      "start_verse": 1,
+      "end_chapter": 20,
+      "end_verse": 13
     },
     {
       "number": 3,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Edom's Rebuff and Aharon's Death",
+      "start_chapter": 20,
+      "start_verse": 14,
+      "end_chapter": 20,
+      "end_verse": 29
     },
     {
       "number": 4,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Battling Arad and the Episode of the Fiery Serpents",
+      "start_chapter": 21,
+      "start_verse": 1,
+      "end_chapter": 21,
+      "end_verse": 9
     },
     {
       "number": 5,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "The March Towards the Land Continues",
+      "start_chapter": 21,
+      "start_verse": 10,
+      "end_chapter": 21,
+      "end_verse": 20
     },
     {
       "number": 6,
-      "title": "",
-      "start_chapter": null,
-      "start_verse": null,
-      "end_chapter": null,
-      "end_verse": null
+      "title": "Sichon and Og Defeated",
+      "start_chapter": 21,
+      "start_verse": 21,
+      "end_chapter": 22,
+      "end_verse": 1
     }
   ],
   "perek_id": "hukat",
