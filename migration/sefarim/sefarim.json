@@ -38,6 +38,7 @@
     },
     {
         "perek_id": 1,
+        "perek_title": "Be Strong & Courageous!",
         "teacher_id": 1001,
         "reader_id": null,
         "is_many_parts": false,
